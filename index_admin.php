@@ -1,5 +1,5 @@
 <?php
-include("i/session.php");
+include("includes/session.php");
 
 ?>
 
